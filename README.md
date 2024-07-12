@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @yashwanth1434
-- 👀 I’m interested in learning hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on hacking course
-- 📫 How to reach me by post
+Hi @yashwanth1434! 😊 
+It's great to meet you. 
+If you need any advice or resources on video editing 🎬 or front-end development 💻, feel free to ask. 
+How can I assist you today? 🌟
 
 <!---
 yashwanth1434/yashwanth1434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
